@@ -1,2 +1,2 @@
-# C36RV_SpeedRacer_Reference_Code
-Teacher Reference Code
+# C36-Carreras de autos- código de referencia
+Código de referencia de la maestra
